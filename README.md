@@ -11,7 +11,7 @@ This project analyzes Titanic passenger data to predict relevance (1 = relevant,
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/ShashankInsights/Titanic-Relevance-Analysis.git
+   git clone https://github.com/ShashankViz/Titanic-Relevance-Analysis.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
