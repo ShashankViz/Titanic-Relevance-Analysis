@@ -19,5 +19,13 @@ This project analyzes Titanic passenger data to predict relevance (1 = relevant,
 
 ## Key Outputs
 - Relevance by class: ![Relevance by Class](relevance_by_class.png)
+  
 - Relevance distribution: ![Relevance Distribution](relevance_distribution.png)
+  
 - Model performance: ![Confusion Matrix](confusion_matrix.png)
+
+## Dataset
+- Source: [Kaggle](https://www.kaggle.com/c/titanic/data) Titanic Dataset
+
+## Author
+[Shashank](https://linkedin.com/in/linkedin.com/in/shashank-mn99)
