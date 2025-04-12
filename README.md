@@ -18,3 +18,6 @@ This project analyzes Titanic passenger data to predict relevance (1 = relevant,
 3. Open Titanic_Relevance_Analysis.ipynb and run all cells.
 
 ## Key Outputs
+- Relevance by class: ![Relevance by Class](relevance_by_class.png)
+- Relevance distribution: ![Relevance Distribution](relevance_distribution.png)
+- Model performance: ![Confusion Matrix](confusion_matrix.png)
